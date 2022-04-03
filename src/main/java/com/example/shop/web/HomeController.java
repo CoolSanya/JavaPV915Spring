@@ -1,7 +1,7 @@
 package com.example.shop.web;
 
-import dto.roles.AddRoleDto;
-import dto.roles.RoleItemDto;
+import com.example.shop.dto.roles.AddRoleDto;
+import com.example.shop.dto.roles.RoleItemDto;
 import com.example.shop.entities.RoleEntity;
 import com.example.shop.mapper.RoleMapper;
 import com.example.shop.repositories.RoleRepository;

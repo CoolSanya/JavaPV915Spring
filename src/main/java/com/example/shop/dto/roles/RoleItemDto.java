@@ -1,4 +1,4 @@
-package dto.roles;
+package com.example.shop.dto.roles;
 
 import lombok.Data;
 

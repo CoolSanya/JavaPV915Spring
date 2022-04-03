@@ -1,7 +1,7 @@
 package com.example.shop.mapper;
 
-import dto.roles.AddRoleDto;
-import dto.roles.RoleItemDto;
+import com.example.shop.dto.roles.AddRoleDto;
+import com.example.shop.dto.roles.RoleItemDto;
 import com.example.shop.entities.RoleEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
